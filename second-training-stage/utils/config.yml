@@ -1,0 +1,38 @@
+button:
+  click accuracy: false
+  load checkpoint: false
+  ppo: true
+  proportion choose: false
+  reaction time: false
+  show: false
+  show model: false
+policy: false
+ppo:
+  advantage normalize: true
+  
+  check env: false
+  
+  clip epsilon: 0.05
+  
+  gamma: 0.99
+  global grad clip: false
+  lambda: 0.95
+  
+  max episode step: 600
+  model init: true
+  monter car: false
+  num epoch: 1
+  num_actor: 8
+  num_episode: 500
+  batch size: 512
+  save: true
+hyperparameter:
+  entropy coefficient: 0.001
+  learning rate: 2e-4
+  weight decay: 0.00
+  head num: 4
+  block num: 12
+  dropout: 0
+variable:
+  task mode: 1
+  check point path: data/model/fixation-unified-ecc-experiment.pt

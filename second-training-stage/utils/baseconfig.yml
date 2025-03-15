@@ -1,0 +1,15 @@
+model:
+  block number: 12
+  head number: 4
+
+train:
+  episode step: 600
+  episode number: 5000
+  epoch number: 1
+  batch size: 512
+  learning rate: 2e-4
+  weight decay: 0
+
+ppo:
+  clip epsilon: 0.05
+  entropy coefficient: 0.001

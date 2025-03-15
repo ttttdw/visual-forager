@@ -1,0 +1,5 @@
+variable:
+  distractor number: 16
+  total number: 32
+  size: 16
+  target size: 64

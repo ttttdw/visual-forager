@@ -1,0 +1,25 @@
+# Ignore data files
+*.pt
+*.json
+*.jpg
+*.jpg
+*.log
+*.out
+*.mat
+*.csv
+*.txt
+*.npy
+*.sh
+
+# Ignore data directories
+/data/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+visual_foraging_gym/envs/OBJECTSALL/
+visual_foraging_gym/envs/DistractorFixed/
+visual_foraging_gym/__pycache__/
+visual_foraging_gym/envs/__pycache__/
+__pycache__/
+Untitled-1.ipynb
