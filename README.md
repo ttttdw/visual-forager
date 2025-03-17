@@ -1,4 +1,4 @@
-# VF-Paper-Code
+# Gazing at Rewards: Eye Movements as a Lens into Human and AI Decision-Making in Hybrid Visual Foraging
 
 This repository contains the official implementation of our CVPR 2025 paper:
 
