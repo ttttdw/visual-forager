@@ -10,6 +10,10 @@ Imagine searching a collection of coins for quarters ($0.25$), dimes ($0.10$), n
 
 conda create -f environment.yml
 
+## Download
+
+Download pretrained model from https://drive.google.com/drive/folders/1JMXkr1bNewBRpggOIRc8nfRi0grh76OB?usp=share_link and replace the folder [data](./second-training-stage/data/).
+
 ## Usage
 To train the model:
 1. Run the first training stage
@@ -29,6 +33,14 @@ To test the model:
 cd second-training-stage
 ./test_full_vf.sh
 ```
+
+To plot cumulative score: run matlab code [plot_cumulativeScore.m](./human-foraging-data-analysis/plot_cumulativeScore.m).
+
+To plot saccade size: run matlab code [plot_saccade.m](./human-foraging-data-analysis/plot_saccade.m).
+
+To plot Spider of OOD performance: run matlab code [plot_spyder.m](./human-foraging-data-analysis/plot_spyder.m).
+
+
 
 ## Citation
 
