@@ -40,9 +40,11 @@ To plot Norm.Score: run matlab code [plot_cumulativeScore.m](./human-foraging-da
 
 To plot saccade size: run matlab code [plot_saccade.m](./human-foraging-data-analysis/plot_saccade.m).
 
+![SaccadeSize](saccadeSize.jpg)
+
 To plot Spider of OOD performance: run matlab code [plot_spyder.m](./human-foraging-data-analysis/plot_spyder.m).
 
-
+![oodSpyder](oodSpyder.jpg)
 
 ## Citation
 
