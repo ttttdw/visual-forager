@@ -34,7 +34,9 @@ cd second-training-stage
 ./test_full_vf.sh
 ```
 
-To plot cumulative score: run matlab code [plot_cumulativeScore.m](./human-foraging-data-analysis/plot_cumulativeScore.m).
+To plot Norm.Score: run matlab code [plot_cumulativeScore.m](./human-foraging-data-analysis/plot_cumulativeScore.m).
+
+![Norm_Score](Norm_Score.pdf)
 
 To plot saccade size: run matlab code [plot_saccade.m](./human-foraging-data-analysis/plot_saccade.m).
 
