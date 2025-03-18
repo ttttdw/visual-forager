@@ -36,7 +36,7 @@ cd second-training-stage
 
 To plot Norm.Score: run matlab code [plot_cumulativeScore.m](./human-foraging-data-analysis/plot_cumulativeScore.m).
 
-<img src="Norm_Score.pdf" width="400">
+<img src="Norm_Score.png" width="400">
 
 To plot saccade size: run matlab code [plot_saccade.m](./human-foraging-data-analysis/plot_saccade.m).
 
