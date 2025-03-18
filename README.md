@@ -34,17 +34,19 @@ cd second-training-stage
 ./test_full_vf.sh
 ```
 
+## Results
+
 To plot Norm.Score: run matlab code [plot_cumulativeScore.m](./human-foraging-data-analysis/plot_cumulativeScore.m).
 
-<img src="Norm_Score.png" width="400">
+<img src="Norm_Score.png" width="600">
 
 To plot saccade size: run matlab code [plot_saccade.m](./human-foraging-data-analysis/plot_saccade.m).
 
-<img src="saccadeSize.jpg" width="400">
+<img src="saccadeSize.jpg" width="300">
 
 To plot Spider of OOD performance: run matlab code [plot_spyder.m](./human-foraging-data-analysis/plot_spyder.m).
 
-<img src="oodSpyder.jpg" width="400">
+<img src="oodSpyder.jpg" width="300">
 
 ## Citation
 
