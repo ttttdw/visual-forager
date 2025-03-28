@@ -17,11 +17,11 @@ for i = 1:length(subjectFolders)
     %preprocess(subjectPath);
     
    
-    [humanScore, upperBound] = fcn_getHumanscore(subjectPath, condition,add_on_condition);
+    [humanScore, upperBound] = fcn_getHumanscore(subjectPath, condition);
     totalHumanScore = [totalHumanScore; humanScore];
     totalUpperBound = [totalUpperBound; upperBound];
     
-    [clickCount, onscreenCount] = fcn_getHumanbehaviour(subjectPath, condition,add_on_condition);
+    [clickCount, onscreenCount] = fcn_getHumanbehaviour(subjectPath, condition);
     
     if isempty(totalClickCount)
         totalClickCount = clickCount;

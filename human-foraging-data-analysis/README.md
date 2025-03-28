@@ -18,7 +18,8 @@ subject1/
 
 ```
 
-You should copy the stimulu document in the same folder. After finishing all stimulus, you can put them together in one folder like this:
+You should copy the stimulu document in the same folder, and run matlab code [readEDF](./readEDF.m).
+Put all folders together in one folder like this:
 
 ```
 all_subjects/
@@ -27,8 +28,10 @@ all_subjects/
 |   ├──***.edf
 |   ├──***.edf.tmp
 |   ├──stimulus**.mat
+|   ├──eventlist.mat
 ├──subject2/
 ├──subject3/
 
 ```
+Then run matlab code [process](./process.m), you will get a batch of data similar to our's. Then repeat the process in [Quick Start](#quick-start).
 
