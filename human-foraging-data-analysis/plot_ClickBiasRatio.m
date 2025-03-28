@@ -2,8 +2,8 @@ modelclickCountPath = 'fixation model/ID2/clickPercentage.csv';
 modelonscreenCountPath = 'fixation model/ID2/onscreenPercentage.csv';
 chanceclickCountPath = 'chance/ID2/clickPercentage.csv';
 chanceonscreenCountPath = 'chance/ID2/onscreenPercentage.csv';
-humanclickCountPath = 'totalClickCount/totalClickCount3.mat';
-humanonscreenCountPath = 'totalOnscreenCount/totalOnscreenCount3.mat';
+humanclickCountPath = 'totalClickCount/totalClickCountID2.mat';
+humanonscreenCountPath = 'totalOnscreenCount/totalOnscreenCountID2.mat';
 
 modelclickCountData = load(modelclickCountPath);
 modelonscreenCountData = load(modelonscreenCountPath);
