@@ -8,7 +8,7 @@ Then, you can run matlab code [get_AllHumanData](./get_AllHumanData.m) and get a
 Or if you want a quick preview, you may simply use the data in folder [totalClickCount](./totalClickCount/), etc.
 
 ### Raw Data Processing
-After a stimulu collecting human eye-movement data, you may get a folder like this:
+After conducting a stimulus collecting human eye-movement data, you may get a folder like this:
 
 ```
 subject1/
@@ -18,7 +18,7 @@ subject1/
 
 ```
 
-You should copy the stimulu document in the same folder, and run matlab code [readEDF](./readEDF.m).
+You should copy the stimulus document in the same folder, and run matlab code [readEDF](./readEDF.m).
 Put all folders together in one folder like this:
 
 ```
