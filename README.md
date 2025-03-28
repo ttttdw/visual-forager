@@ -22,6 +22,10 @@ conda create -f environment.yml
 
 ## Download
 
+We acknowledge Brady, et al. for using their stimulus: http://olivalab.mit.edu/MM/uniqueObjects.html.
+
+If you want to use the exactly the same stimulus we choose, please download them from https://drive.google.com/drive/folders/1OoaAXTsjB_PIhKMw3SuBBG4POq2ReCro?usp=share_link and put them into [env1](./first-training-stage/visual_foraging_gym/envs/) and [env2](./second-training-stage/visual_foraging_gym/envs/)
+
 Download pretrained model from https://drive.google.com/drive/folders/1JMXkr1bNewBRpggOIRc8nfRi0grh76OB?usp=share_link and replace the folder [data](./second-training-stage/data/).
 
 ## Usage
