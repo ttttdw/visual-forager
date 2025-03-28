@@ -49,6 +49,7 @@ cd second-training-stage
 ```
 
 ## Results
+After testing the model, use [npy2csv](./human-foraging-data-analysis/npy2csv.ipynb) to convert .npy results to .csv files.
 
 To plot Norm.Score: run matlab code [plot_cumulativeScore.m](./human-foraging-data-analysis/plot_cumulativeScore.m).
 
