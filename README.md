@@ -20,7 +20,7 @@ An example of scanpath is shown below:
 
 <table style="width: 100%; text-align: center;">
   <tr>
-    <td><img src="target_combination.png" width="30"></td>
+    <td><img src="target_combination.png" width="200"></td>
     <td><img src="human_fixations.gif" width="200"></td>
     <td><img src="model_fixations.gif" width="200"></td>
   </tr>
