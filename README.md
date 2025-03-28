@@ -48,6 +48,10 @@ To plot Spider of OOD performance: run matlab code [plot_spyder.m](./human-forag
 
 <img src="oodSpyder.jpg" width="300">
 
+To plot Click Bias Ratio: run matlab code [plot_ClickBiasRatio.m](./human-foraging-data-analysis\plot_ClickBiasRatio.m)
+
+<img src="ClickBiasRatio.jpg" width="300">
+
 ## Citation
 
 If you use this code, please cite our paper:
