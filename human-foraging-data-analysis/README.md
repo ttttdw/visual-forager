@@ -19,7 +19,8 @@ subject1/
 ```
 
 You should copy the stimulus document in the same folder, and run matlab code [readEDF](./readEDF.m).
-Put all folders together in one folder like this:
+
+Put all data together in one folder like this.
 
 ```
 all_subjects/
