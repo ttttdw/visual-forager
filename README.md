@@ -16,6 +16,21 @@ Imagine searching a collection of coins for quarters ($0.25$), dimes ($0.10$), n
   <img src="Fig1b.png" alt="Fig1b" width="37%">
 </p>
 
+An example of scanpath is shown below:
+
+<table>
+  <tr>
+    <td><img src="target_combination.pnd" width="50"></td>
+    <td><img src="human_fixations.gif" width="200"></td>
+    <td><img src="model_fixations.gif" width="200"></td>
+  </tr>
+  <tr>
+    <td>Target combination</td>
+    <td>Human fixations</td>
+    <td>Model fixations</td>
+  </tr>
+</table>
+
 ## Installation
 
 conda create -f environment.yml
