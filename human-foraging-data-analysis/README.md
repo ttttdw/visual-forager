@@ -12,7 +12,7 @@ After conducting a stimulus collecting human eye-movement data, you may get a fo
 
 ```
 subject1/
-├──record'subjedctname''timestamp'.mat 
+├──record'subjectname''timestamp'.mat 
 ├──***.edf
 ├──***.edf.tmp
 
