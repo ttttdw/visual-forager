@@ -17,6 +17,8 @@ conda create -f environment.yml
 
 Download pretrained model from https://drive.google.com/drive/folders/1JMXkr1bNewBRpggOIRc8nfRi0grh76OB?usp=share_link and replace the folder [data](./second-training-stage/data/).
 
+For human data downloading, see the instruction in [README](./human-foraging-data-analysis/README.md).
+
 ## Usage
 To train the model:
 1. Run the first training stage
