@@ -25,7 +25,7 @@ Put all data together in one folder like this.
 ```
 all_subjects/
 ├──subject1/
-|   ├──record'subjedctname''timestamp'.mat 
+|   ├──record'subjectname''timestamp'.mat 
 |   ├──***.edf
 |   ├──***.edf.tmp
 |   ├──stimulus**.mat
